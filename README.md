@@ -84,6 +84,3 @@ The provided script uses the `pynput` library to listen to keyboard events. Here
 
 Keylogging can be considered illegal or unethical if done without proper consent. Always ensure you have explicit permission from the user or the owner of the device before running any keylogging software. Use this program responsibly.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
